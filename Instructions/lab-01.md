@@ -19,6 +19,8 @@
 
 1. Click on **Create new AI Search** for the Connect Azure AI Search option. Enter the name for your Azure AI Search and click on **Create**.
 
+   ![](media/create-new-ai-search.png)
+
 1. On the Create Hub section, click on **Next**.
 
 1. On the Review and finish section, review your Azure AI services, click on **Create a project** and wait for the deployments to succeed.
